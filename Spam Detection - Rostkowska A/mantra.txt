@@ -1,0 +1,8 @@
+Mamy się pochylić nad kilkoma rzeczami, mianowicie:
+1. Zrobić database CSV z emailami
+    - umieć stworzyć ten format pliku dla ML 
+    - zrobić sprawnie wszystkie możliwe key words oraz inne opcjonalne features
+2. Natrenować model fajny, żeby działał skutecznie
+    parametryzacja, optymalizacja i sam wybór modelu
+
+jak będziemy mieli fantazję, to coś jeszcze, ale to już i tak mega zadanie dla Pythonu na neuro
